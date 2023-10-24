@@ -61,7 +61,7 @@ Database : Mysql
 #view information 
 ![image](https://github.com/Sailza/Generate-Electricity-Bills/assets/97443167/f2fcfb24-f95b-49ab-883d-7da17db2d841)
 
-#Conclusion 
+#Conclusion :
 It is a software which helps the user to work with the billing cycles,
 paying bills, managing different DETAILS under which are working etc.
 
