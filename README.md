@@ -1,4 +1,4 @@
-#EasyCheck & QuickPay Bills
+#EasyCheck_and_QuickPay_Bills
 
 
 #About Project
