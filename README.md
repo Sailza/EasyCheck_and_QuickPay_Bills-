@@ -1,4 +1,4 @@
-# Generate-Electricity-Bills
+#EasyCheck & QuickPay Bills
 
 
 #About Project
