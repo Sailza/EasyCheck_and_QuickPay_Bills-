@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ResultSet2xmljava">
+    <CLASSES>
+      <root url="jar://D:/ResultSet2xmljava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ResultSet2xmljava.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
