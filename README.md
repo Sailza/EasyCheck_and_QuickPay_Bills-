@@ -32,7 +32,7 @@ Database : Mysql
 ![image](https://github.com/Sailza/Generate-Electricity-Bills/assets/97443167/7406b730-c95e-4a0b-9fee-f1493a58a40a)
 
 #admin
-![image](https://github.com/Sailza/Generate-Electricity-Bills/assets/97443167/0e8fc1b9-5e49-4cef-a178-ff730fe3b329)
+![image](https://github.com/Sailza/Generate-Electricity-Bills/assets/97443167/6fc6278c-3b0f-40f8-8493-970849c15c89)
 
 #new Customer 
 ![image](https://github.com/Sailza/Generate-Electricity-Bills/assets/97443167/db73c40d-2ad0-4733-8c99-29b8cc82e7ef)
